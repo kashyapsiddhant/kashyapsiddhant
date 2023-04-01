@@ -55,5 +55,8 @@
 
 ---
 <h1 >Visits: </h1><p align="left"> <h1 ><img src="https://komarev.com/ghpvc/?username=kashyapsiddhant&label=Profile%20views&color=0e75b6&style=plastic" alt="kashyapsiddhant" /> </h1></p>
+<p align="center">
+<img src="https://github.com/kashyapsiddhant/kashyapsiddhant/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
