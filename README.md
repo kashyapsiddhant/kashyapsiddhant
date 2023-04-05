@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently **Committee Member of Directorate of Student Affairs,SRMIST**
 
-- 📫 How to reach me [![GMAIL](https://img.shields.io/badge/GMAIL-D14386?logo=GMAIL&logoColor=white)](siddhntkashyap18@gmail.com)
+- 📫 How to reach me(siddhntkashyap18@gmail.com)
 
 - 📄 Know about my experiences [![RESUME](https://img.shields.io/badge/RESUME-%231877F2.svg?logo=R&logoColor=yellow)](https://drive.google.com/file/d/1IA145SGVNDDvh0CG7ay0JpImV9wMOztJ/view?usp=sharing)
 
