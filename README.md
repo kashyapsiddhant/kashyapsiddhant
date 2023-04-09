@@ -15,6 +15,9 @@
 
 - BMI Calculator [![YourBMI-Calc](https://img.shields.io/badge/YourBMI-Calc-3DDC84?logo=YourBMI-Calc&logoColor=white)](https://github.com/kashyapsiddhant/YourBMI-Calc.git)
 
+
+- Numpiy [![Numpiy](https://img.shields.io/badge/Numpiy-3DDC84?logo=Numpiy&logoColor=white)](https://github.com/kashyapsiddhant/Numpiy.git)
+
 - I'm a certified java, c, c++ and python programmer [![Portfolio](https://img.shields.io/badge/Portfolio-25D366?logo=P&logoColor=white)](https://siddhantkashyap.journoportfolio.com)
 
 - 🔭 I’m currently **Committee Member of Directorate of Student Affairs,SRMIST**
