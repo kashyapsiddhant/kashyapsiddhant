@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/illustrations-concept-isometric-data-analysis-report-static-wit-graph-chart-graphic-template-website-template-banner-illustrate_71983-1100.jpg?w=1060)](https://github.com/kashyapsiddhant)
+[![MasterHead](https://github.com/kashyapsiddhant/kashyapsiddhant/blob/main/long_pic.jpg)](https://github.com/kashyapsiddhant)
 
 
 <h1 align="center">Hi I'm Siddhant Kashyap 
