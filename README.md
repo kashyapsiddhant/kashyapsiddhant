@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/kashyapsiddhant/kashyapsiddhant/blob/main/long_pic.jpg)](https://github.com/kashyapsiddhant)
+[![MasterHead](https://github.com/kashyapsiddhant/kashyapsiddhant/blob/main/LinkedIn%20Background%20(Community).jpg)](https://github.com/kashyapsiddhant)
 
 
 <h1 align="center">Hi I'm Siddhant Kashyap 
